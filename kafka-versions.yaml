@@ -119,4 +119,4 @@
   zookeeper: 3.5.8
   third-party-libs: 2.7.x
   supported: true
-  default:true
+  default: true
